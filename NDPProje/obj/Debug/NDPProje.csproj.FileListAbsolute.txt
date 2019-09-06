@@ -1,0 +1,10 @@
+D:\visual\NDPProje\NDPProje\bin\Debug\NDPProje.exe.config
+D:\visual\NDPProje\NDPProje\bin\Debug\NDPProje.exe
+D:\visual\NDPProje\NDPProje\bin\Debug\NDPProje.pdb
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.csprojAssemblyReference.cache
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.Form1.resources
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.cache
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.CoreCompileInputs.cache
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.exe
+D:\visual\NDPProje\NDPProje\obj\Debug\NDPProje.pdb
